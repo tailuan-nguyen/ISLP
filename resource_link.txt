@@ -1,0 +1,2 @@
+Edx course for videos: https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python
+Lab videos: https://www.youtube.com/playlist?list=PLoROMvodv4rNHU1-iPeDRH-J0cL-CrIda
